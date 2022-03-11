@@ -19,10 +19,10 @@ export default {
   data() {
     return {
       images: [
-        "https://github.com/RPerry/personal_site/blob/master/src/images/IMG_0012.JPG?raw=true",
-        "https://github.com/RPerry/personal_site/blob/master/src/images/foster3.JPG?raw=true",
-        "https://github.com/RPerry/personal_site/blob/master/src/images/IMG_9620.JPG?raw=true",
-        "https://github.com/RPerry/personal_site/blob/master/src/images/IMG_9463.JPG?raw=true"
+        "https://github.com/RPerry/php_personal_site/blob/master/src/images/IMG_0012.JPG?raw=true",
+        "https://github.com/RPerry/php_personal_site/blob/master/src/images/foster3.JPG?raw=true",
+        "https://github.com/RPerry/php_personal_site/blob/master/src/images/IMG_9620.JPG?raw=true",
+        "https://github.com/RPerry/php_personal_site/blob/master/src/images/IMG_9463.JPG?raw=true"
       ],
       index: 0
     };
